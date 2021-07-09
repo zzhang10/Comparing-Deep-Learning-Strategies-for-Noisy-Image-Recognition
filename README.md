@@ -1,5 +1,6 @@
 # Comparing Deep Learning Strategies for Noisy Image Recognition
  
+Note: this is the final project of an AI course that I have taken at the University of Waterloo. My responsibility in this (group) project is to write and test all the code, including producing the figures. The video presentation and report of the final project are not included in this repository as they are not entirely of my work. The work presented in this repository are entirely of my own.
 
 This is the code repository for CS486 Group 6 Final Project: Comparing Deep Learning Strategies for Noisy Image Recognition. Image recognition is a common classification task with real-life applications. However, images are often corrupted by noises such as static (or Gaussian noise) during transmission, blockages or rotations. Therefore, robust methods to effectively identify object in noisy images are important for real-world applications of image recognition. In this project we explore and compare different ways of recognizing noisy images using deep learning methods. 
 
